@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Get Rick Rolled Noob
 
 You can use the [editor on GitHub](https://github.com/USB-40/USB-40/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
